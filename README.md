@@ -1,0 +1,1 @@
+Place the main-menu-icon file in the directory PrismLauncher -> catpacks. After moving this file, move the folder named nikoshit to the directory PrismLauncher -> themes. Once all folders are transferred, go to Settings -> Appearance and select the theme and icon.
